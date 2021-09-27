@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### NOTE!!!!!
+API Auth token expires every 24 hours (bearer token)
+Visit https://www.universal-tutorial.com/rest-apis/free-rest-api-for-country-state-city 
+for instructons on how to generate new Auth token
